@@ -1,3 +1,6 @@
 pkg
 main
 postgres-data
+
+/.history
+/.idea
